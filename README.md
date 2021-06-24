@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/JeanProgGit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanProgGit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanProgGit&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanProgGit&layout=compact&langs_count=16&theme=dracula"/>
 </div>
    
  </a>
