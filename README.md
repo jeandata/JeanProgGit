@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/JeanProgGit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanProgGit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanProgGit&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   
 </div>
 <div style="display: inline_block"><br>
